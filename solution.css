@@ -1,3 +1,11 @@
-.fixme1, .fixme2, .fixme3 {
-    
+.fixme1 img {
+display: block;
+}
+
+.fixme2 div {
+    display: inline;
+}
+.fixme3 {
+display: flex;
+
 }
